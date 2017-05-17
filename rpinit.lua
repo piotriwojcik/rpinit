@@ -1,3 +1,4 @@
+local nn = require 'nn'
 local WT = require 'Math.WalshTransform'
 local rpinit = {}
 
