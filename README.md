@@ -1,2 +1,2 @@
 # rpinit
-Random Projection initialization of deep neural networks
+Random Projection initialization schemes for Torch7 neural networks modules
