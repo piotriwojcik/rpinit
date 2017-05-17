@@ -12,9 +12,7 @@ Readme contents:
 
 ## Installation
 
-```sh
-luarocks install rpinit
-```
+See instructions on: https://luarocks.org/modules/piotriwojcik/rpinit.
 
 ## Usage
 
