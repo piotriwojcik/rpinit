@@ -5,9 +5,16 @@ cudnn.SpatialConvolution.
 
 Readme contents:
 
+- [Installation](#installation)
 - [Usage](#usage)
 - [Example](#example)
 
+
+## Installation
+
+```sh
+luarocks install rpinit
+```
 
 ## Usage
 

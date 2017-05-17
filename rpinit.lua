@@ -1,5 +1,3 @@
-require 'cudnn'
-
 local WT = require 'Math.WalshTransform'
 local rpinit = {}
 
